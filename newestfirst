@@ -1,1 +1,1 @@
-schtasks /create /tn "WebloaderTask" /tr "Powershell.exe -WindowStyle Hidden -Command \"Start-Process 'C:\Users\junio\Downloads\everything\vmplayer.exe' -WindowStyle Hidden\"" /sc once /st 00:00 /f && schtasks /run /tn "WebloaderTask" && schtasks /delete /tn "WebloaderTask" /f
+niggers
